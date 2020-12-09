@@ -1,4 +1,4 @@
-var audio = new Audio('sound/son.sound');
+var audio = new Audio('sound/son.mp3');
 var count = 0;
 
 document.getElementById("gift").onclick = function () {
