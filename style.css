@@ -45,6 +45,7 @@ body {
     opacity: 0;
     margin: 0 auto;
     display: block;
+    filter: invert(1);
 }
 
 .box-body:hover {
